@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ansh Shahi 👋
 
-<!--
-**Rajshahi72/Rajshahi72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Business Analyst | SQL | Excel | Power BI
 
-Here are some ideas to get you started:
+I'm a BBA student specializing in Finance, interested in business analytics, financial analysis, and data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BBA Student
+- 📊 Learning SQL and Data Analytics
+- 💡 Interested in Business Intelligence
+- 🚀 Building practical projects
+- 🎯 Career Goal: Become a Business Analyst
+
+### Skills & Tools
+- SQL
+- Microsoft Excel
+- Power BI
+- Business Analysis
+- Financial Analysis
+
+### Featured Project
+**SQL Learning Journey**
+
+Learning SQL through practical queries, sample datasets, and business analysis exercises.
+
+### Connect With Me
+- GitHub: https://github.com/Rajshahi72
+- LinkedIn: www.linkedin.com/in/ansh-shahi2405
